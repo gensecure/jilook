@@ -9,13 +9,13 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 }
 
 
-.wrap900 {
+.wrap500{
 
   width: 100%;
   padding: 3.5em 0;
 }
 
-.grey5000 {
+.grey100 {
   background: #ECF0F1;
   padding: 100px 0 150px;
 }
