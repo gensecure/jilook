@@ -7,12 +7,13 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 *, *:before, *:after {
   box-sizing: border-box;
 }
-.wrap3232 {
+
+.wrap {
   width: 100%;
   padding: 3.5em 0;
 }
 
-.grey34 {
+.grey5000 {
   background: #ECF0F1;
   padding: 100px 0 150px;
 }
